@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+openpyxl
+joblib
+torch
+tabpfn>=2
+xgboost
+optuna==3.6.1
